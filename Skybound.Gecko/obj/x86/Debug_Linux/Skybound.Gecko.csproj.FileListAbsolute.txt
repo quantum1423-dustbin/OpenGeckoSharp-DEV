@@ -1,0 +1,8 @@
+D:\CSProj\!OGS-DEV\Skybound.Gecko\obj\x86\Debug_Linux\ResolveAssemblyReference.cache
+D:\CSProj\!OGS-DEV\Skybound.Gecko\obj\x86\Debug_Linux\Skybound.Gecko.ChromeDialog.resources
+D:\CSProj\!OGS-DEV\Skybound.Gecko\obj\x86\Debug_Linux\Skybound.Gecko.ConfirmDialog.resources
+D:\CSProj\!OGS-DEV\Skybound.Gecko\obj\x86\Debug_Linux\Skybound.Gecko.PasswordDialog.resources
+D:\CSProj\!OGS-DEV\Skybound.Gecko\obj\x86\Debug_Linux\Skybound.Gecko.PromptDialog.resources
+D:\CSProj\!OGS-DEV\Skybound.Gecko\obj\x86\Debug_Linux\Skybound.Gecko.PropertiesDialog.resources
+D:\CSProj\!OGS-DEV\Skybound.Gecko\obj\x86\Debug_Linux\ResGen.read.1.tlog
+D:\CSProj\!OGS-DEV\Skybound.Gecko\obj\x86\Debug_Linux\ResGen.write.1.tlog

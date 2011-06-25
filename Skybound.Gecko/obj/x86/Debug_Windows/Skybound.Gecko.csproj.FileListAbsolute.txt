@@ -1,0 +1,14 @@
+D:\CSProj\!OGS-DEV\Skybound.Gecko\bin\x86\Debug_Windows\OpenGeckoSharp-DEV.dll
+D:\CSProj\!OGS-DEV\Skybound.Gecko\bin\x86\Debug_Windows\OpenGeckoSharp-DEV.pdb
+D:\CSProj\!OGS-DEV\Skybound.Gecko\obj\x86\Debug_Windows\ResolveAssemblyReference.cache
+D:\CSProj\!OGS-DEV\Skybound.Gecko\obj\x86\Debug_Windows\Skybound.Gecko.ChromeDialog.resources
+D:\CSProj\!OGS-DEV\Skybound.Gecko\obj\x86\Debug_Windows\Skybound.Gecko.ConfirmDialog.resources
+D:\CSProj\!OGS-DEV\Skybound.Gecko\obj\x86\Debug_Windows\Skybound.Gecko.PasswordDialog.resources
+D:\CSProj\!OGS-DEV\Skybound.Gecko\obj\x86\Debug_Windows\Skybound.Gecko.PromptDialog.resources
+D:\CSProj\!OGS-DEV\Skybound.Gecko\obj\x86\Debug_Windows\Skybound.Gecko.PropertiesDialog.resources
+D:\CSProj\!OGS-DEV\Skybound.Gecko\obj\x86\Debug_Windows\ResGen.read.1.tlog
+D:\CSProj\!OGS-DEV\Skybound.Gecko\obj\x86\Debug_Windows\ResGen.write.1.tlog
+D:\CSProj\!OGS-DEV\Skybound.Gecko\obj\x86\Debug_Windows\OpenGeckoSharp-DEV.dll
+D:\CSProj\!OGS-DEV\Skybound.Gecko\obj\x86\Debug_Windows\OpenGeckoSharp-DEV.pdb
+D:\CSProj\!OGS-DEV\Skybound.Gecko\obj\x86\Debug_Windows\Skybound.Gecko.GeckoWebBrowser.resources
+D:\CSProj\!OGS-DEV\Skybound.Gecko\obj\x86\Debug_Windows\Skybound.Gecko.DLHandler.resources
